@@ -1,4 +1,4 @@
 MISCELLANEOUS
 =============
 
-Miscellaneous Work
+Miscellaneous work in Machine Learning
